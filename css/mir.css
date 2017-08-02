@@ -1,0 +1,34 @@
+#media_in_response { width: 450px; float: none; clear: both; display: block; }
+
+#mir-picture-status, #myvideo-status
+{
+	/*background-color:		#F9F7ED;*/
+	/*padding:				10px 15px;*/
+	width:					220px;
+}
+ 
+#mir-picture-status .progress, #mir-video-status .progress
+{
+	margin-right:			0.5em;
+}
+ 
+#mir-picture-status .progress-text, #mir-video-status .progress-text
+{
+	font-size:				0.9em;
+	font-weight:			bold;
+}
+
+.hide
+{
+  display: none !important;
+}
+
+#mir_buttons { float: none; clear: both; }
+
+#mir-picture-preview { padding: 5px; background: #fff; float: none; width: 150px; height: 150px; overflow: hidden; }
+#mir-picture-image { width: 200px; }
+
+.progress-text
+{
+  display: none;
+}
